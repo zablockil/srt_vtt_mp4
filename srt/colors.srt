@@ -1,0 +1,35 @@
+1
+00:00:01,000 --> 00:00:09,500
+{\an7}<font color="white"><b>White</b></font>
+
+2
+00:00:10,000 --> 00:00:19,500
+{\an8}<font color="yellow"><b>Yellow</b></font>
+
+3
+00:00:20,000 --> 00:00:29,500
+{\an9}<font color="cyan"><b>Cyan</b></font>
+
+4
+00:00:30,000 --> 00:00:39,500
+{\an4}<font color="green"><b>Green</b></font>
+
+5
+00:00:40,000 --> 00:00:49,500
+{\an5}<font color="magenta"><b>Magenta</b></font>
+
+6
+00:00:50,000 --> 00:00:59,500
+{\an6}<font color="red"><b>Red</b></font>
+
+7
+00:01:00,000 --> 00:01:09,500
+{\an1}<font color="blue"><b>Blue</b></font>
+
+8
+00:01:10,000 --> 00:01:19,500
+{\an2}<font color="black"><b>Black</b></font>
+
+9
+00:01:20,000 --> 00:01:29,500
+{\an3}<font color="gray"><b>Gray</b></font>

@@ -1,0 +1,23 @@
+https://ale5000.altervista.org/other/SubRip_subtitles_capability_tester.zip
+SubRip subtitles capability tester 1.3o by ale5000
+SubRip_subtitles_capability_tester.srt
+
+https://ale5000.altervista.org/other/Tester_for_overlapped_subtitles_in_SubRip_subtitles.zip
+Tester for overlapped subtitles in SubRip subtitles 1.2 by ale5000
+Tester_for_overlapped_subtitles_in_SubRip_subtitles.srt
+
+https://ale5000.altervista.org/other/Tester_for_dots_instead_of_commas_in_timestamps.zip
+Tester for dots instead of commas in timestamps 1.0 by ale5000
+Tester_for_dots_instead_of_commas_in_timestamps.srt
+
+https://ale5000.altervista.org/other/SubRip_subtitles_bug_tester.zip
+SubRip subtitles bug tester by ale5000
+SubRip_subtitles_bug_tester.srt
+
+https://ale5000.altervista.org/other/SubRip_subtitles_bug_tester_ALTERNATIVE.zip
+SubRip subtitles bug tester ALTERNATIVE 1.3b by ale5000
+SubRip_subtitles_bug_tester_ALTERNATIVE.srt
+
+https://ale5000.altervista.org/other/Font_face_capability_tester.zip
+Font face capability tester 1.1e by ale5000
+Font_face_capability_tester.srt

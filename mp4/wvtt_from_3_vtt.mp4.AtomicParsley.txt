@@ -1,0 +1,118 @@
+Atom ftyp @ 0 of size: 24, ends @ 24
+Atom moov @ 24 of size: 40355, ends @ 40379
+     Atom mvhd @ 32 of size: 108, ends @ 140
+     Atom iods @ 140 of size: 21, ends @ 161
+     Atom trak @ 161 of size: 19428, ends @ 19589
+         Atom tkhd @ 169 of size: 92, ends @ 261
+         Atom edts @ 261 of size: 36, ends @ 297
+             Atom elst @ 269 of size: 28, ends @ 297
+         Atom mdia @ 297 of size: 19292, ends @ 19589
+             Atom mdhd @ 305 of size: 32, ends @ 337
+             Atom hdlr @ 337 of size: 33, ends @ 370
+             Atom minf @ 370 of size: 19219, ends @ 19589
+                 Atom vmhd @ 378 of size: 20, ends @ 398
+                 Atom dinf @ 398 of size: 36, ends @ 434
+                     Atom dref @ 406 of size: 28, ends @ 434
+                         Atom url  @ 422 of size: 12, ends @ 434
+                 Atom stbl @ 434 of size: 19155, ends @ 19589
+                     Atom stsd @ 442 of size: 191, ends @ 633
+                         Atom avc1 @ 458 of size: 175, ends @ 633
+                             Atom avcC @ 544 of size: 53, ends @ 597
+                             Atom pasp @ 597 of size: 16, ends @ 613			 ~
+                             Atom btrt @ 613 of size: 20, ends @ 633
+                     Atom stts @ 633 of size: 24, ends @ 657
+                     Atom ctts @ 657 of size: 9024, ends @ 9681
+                     Atom stss @ 9681 of size: 52, ends @ 9733
+                     Atom stsc @ 9733 of size: 64, ends @ 9797
+                     Atom stsz @ 9797 of size: 9020, ends @ 18817
+                     Atom stco @ 18817 of size: 772, ends @ 19589
+     Atom trak @ 19589 of size: 18068, ends @ 37657
+         Atom tkhd @ 19597 of size: 92, ends @ 19689
+         Atom mdia @ 19689 of size: 17968, ends @ 37657
+             Atom mdhd @ 19697 of size: 32, ends @ 19729
+             Atom hdlr @ 19729 of size: 33, ends @ 19762
+             Atom minf @ 19762 of size: 17895, ends @ 37657
+                 Atom smhd @ 19770 of size: 16, ends @ 19786
+                 Atom dinf @ 19786 of size: 36, ends @ 19822
+                     Atom dref @ 19794 of size: 28, ends @ 19822
+                         Atom url  @ 19810 of size: 12, ends @ 19822
+                 Atom stbl @ 19822 of size: 17835, ends @ 37657
+                     Atom stsd @ 19830 of size: 91, ends @ 19921
+                         Atom mp4a @ 19846 of size: 75, ends @ 19921
+                             Atom esds @ 19882 of size: 39, ends @ 19921
+                     Atom stts @ 19921 of size: 24, ends @ 19945
+                     Atom stsc @ 19945 of size: 1408, ends @ 21353
+                     Atom stsz @ 21353 of size: 15536, ends @ 36889
+                     Atom stco @ 36889 of size: 768, ends @ 37657
+     Atom trak @ 37657 of size: 675, ends @ 38332
+         Atom tkhd @ 37665 of size: 92, ends @ 37757
+         Atom mdia @ 37757 of size: 575, ends @ 38332
+             Atom mdhd @ 37765 of size: 32, ends @ 37797
+             Atom hdlr @ 37797 of size: 45, ends @ 37842
+             Atom minf @ 37842 of size: 490, ends @ 38332
+                 Atom nmhd @ 37850 of size: 12, ends @ 37862
+                 Atom dinf @ 37862 of size: 36, ends @ 37898
+                     Atom dref @ 37870 of size: 28, ends @ 37898
+                         Atom url  @ 37886 of size: 12, ends @ 37898
+                 Atom stbl @ 37898 of size: 434, ends @ 38332
+                     Atom stsd @ 37906 of size: 46, ends @ 37952
+                         Atom wvtt @ 37922 of size: 30, ends @ 37952			 ~
+                     Atom stts @ 37952 of size: 160, ends @ 38112
+                     Atom stsc @ 38112 of size: 40, ends @ 38152
+                     Atom stsz @ 38152 of size: 92, ends @ 38244
+                     Atom stco @ 38244 of size: 88, ends @ 38332
+     Atom trak @ 38332 of size: 1260, ends @ 39592
+         Atom tkhd @ 38340 of size: 92, ends @ 38432
+         Atom mdia @ 38432 of size: 1160, ends @ 39592
+             Atom mdhd @ 38440 of size: 32, ends @ 38472
+             Atom hdlr @ 38472 of size: 50, ends @ 38522
+             Atom minf @ 38522 of size: 1070, ends @ 39592
+                 Atom nmhd @ 38530 of size: 12, ends @ 38542
+                 Atom dinf @ 38542 of size: 36, ends @ 38578
+                     Atom dref @ 38550 of size: 28, ends @ 38578
+                         Atom url  @ 38566 of size: 12, ends @ 38578
+                 Atom stbl @ 38578 of size: 1014, ends @ 39592
+                     Atom stsd @ 38586 of size: 46, ends @ 38632
+                         Atom wvtt @ 38602 of size: 30, ends @ 38632			 ~
+                     Atom stts @ 38632 of size: 424, ends @ 39056
+                     Atom stsc @ 39056 of size: 136, ends @ 39192
+                     Atom stsz @ 39192 of size: 228, ends @ 39420
+                     Atom stco @ 39420 of size: 172, ends @ 39592
+     Atom trak @ 39592 of size: 787, ends @ 40379
+         Atom tkhd @ 39600 of size: 92, ends @ 39692
+         Atom mdia @ 39692 of size: 687, ends @ 40379
+             Atom mdhd @ 39700 of size: 32, ends @ 39732
+             Atom hdlr @ 39732 of size: 53, ends @ 39785
+             Atom minf @ 39785 of size: 594, ends @ 40379
+                 Atom nmhd @ 39793 of size: 12, ends @ 39805
+                 Atom dinf @ 39805 of size: 36, ends @ 39841
+                     Atom dref @ 39813 of size: 28, ends @ 39841
+                         Atom url  @ 39829 of size: 12, ends @ 39841
+                 Atom stbl @ 39841 of size: 538, ends @ 40379
+                     Atom stsd @ 39849 of size: 46, ends @ 39895
+                         Atom wvtt @ 39865 of size: 30, ends @ 39895			 ~
+                     Atom stts @ 39895 of size: 192, ends @ 40087
+                     Atom stsc @ 40087 of size: 88, ends @ 40175
+                     Atom stsz @ 40175 of size: 108, ends @ 40283
+                     Atom stco @ 40283 of size: 96, ends @ 40379
+Atom mdat @ 40379 of size: 252669, ends @ 293048
+Atom free @ 293048 of size: 73, ends @ 293121
+
+ ~ denotes an unknown atom
+------------------------------------------------------
+Total size: 293121 bytes; 98 atoms total.
+Media data: 252669 bytes; 40452 bytes all other atoms (13.800% atom overhead).
+Total free atom space: 73 bytes; 0.025% waste. Padding available: 0 bytes.
+------------------------------------------------------
+AtomicParsley version: 20221229.172126.0 d813aa6e0304ed3ab6d92f1ae96cd52b586181ec (utf16)
+------------------------------------------------------
+Movie duration: 90.070 seconds (01:30.07) - 22.44* kbp/sec bitrate (*=approximate)
+Low-level details. Total tracks: 5
+Trk  Type  Handler                    Kind  Lang  Bytes
+1    vide  [none listed]              avc1  und   76668
+     6.81* kbp/s  90.000 sec  AVC High Profile,  Level 3  720x404  (1125 macroblocks)
+2    soun  [none listed]              mp4a  und   167460
+     14.87 kbp/s  MPEG-4 AAC Low Complexity/LC Profile    channels: [2]
+3    text  Color tester               wvtt  eng   617
+4    text  Capability tester          wvtt  ger   6304
+5    text  Overlapped subtitles       wvtt  fre   1612
