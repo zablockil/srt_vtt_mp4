@@ -1,0 +1,28 @@
+WEBVTT
+
+00:00:01.000 --> 00:00:09.500 align:start line:1
+1. <b>justify (top, left)</b>,
+
+00:00:10.000 --> 00:00:19.500 align:center line:1.5
+2. <b>justify (top, center)</b>,
+
+00:00:20.000 --> 00:00:29.500 align:end line:2
+3. <b>justify (top, right)</b>,
+
+00:00:30.000 --> 00:00:39.500 align:start line:48%
+4. <b>justify (center, left)</b>,
+
+00:00:40.000 --> 00:00:49.500 align:center line:50%
+5. <b>justify (center, center)</b>,
+
+00:00:50.000 --> 00:00:59.500 align:end line:52%
+6. <b>justify (center, right)</b>,
+
+00:01:00.000 --> 00:01:09.500 align:start line:-1
+7. <b>justify (bottom, left)</b>,
+
+00:01:10.000 --> 00:01:19.500 align:center line:-1.5
+8. <b>justify (bottom, center)</b>,
+
+00:01:20.000 --> 00:01:29.500 align:end line:-2
+9. <b>justify (bottom, right)</b>.

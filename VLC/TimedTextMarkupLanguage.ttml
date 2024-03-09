@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xml:lang="">
+<head>
+<styling>
+<style xml:id="s0" tts:backgroundColor="" tts:fontStyle="normal" tts:fontSize="100%" tts:fontFamily="sansSerif" tts:color="white" />
+</styling>
+<layout>
+<region xml:id="topLeft" tts:extent="97% 97%" tts:origin="3% 3%" tts:displayAlign="before" tts:textAlign="start" tts:overflow="visible" />
+<region xml:id="topCenter" tts:extent="97% 97%" tts:origin="1.5% 3%" tts:displayAlign="before" tts:textAlign="center" tts:overflow="visible" />
+<region xml:id="topRight" tts:extent="97% 97%" tts:origin="0% 3%" tts:displayAlign="before" tts:textAlign="end" tts:overflow="visible" />
+<region xml:id="centerLeft" tts:extent="97% 97%" tts:origin="3% 1.5%" tts:displayAlign="center" tts:textAlign="start" tts:overflow="visible" />
+<region xml:id="centerCenter" tts:extent="97% 97%" tts:origin="1.5% 1.5%" tts:displayAlign="center" tts:textAlign="center" tts:overflow="visible" />
+<region xml:id="centerRight" tts:extent="97% 97%" tts:origin="0% 1.5%" tts:displayAlign="center" tts:textAlign="end" tts:overflow="visible" />
+<region xml:id="bottomLeft" tts:extent="97% 97%" tts:origin="3% 0%" tts:displayAlign="after" tts:textAlign="start" tts:overflow="visible" />
+<region xml:id="bottomCenter" tts:extent="97% 97%" tts:origin="1.5% 0%" tts:displayAlign="after" tts:textAlign="center" tts:overflow="visible" />
+<region xml:id="bottomRight" tts:extent="97% 97%" tts:origin="0% 0%" tts:displayAlign="after" tts:textAlign="end" tts:overflow="visible" />
+</layout>
+</head>
+<body style="s0">
+<div>
+<p begin="00:00:01.000" end="00:00:09.500" region="topLeft">1. <span tts:fontWeight="bold" >justify (top, left)</span>,</p>
+<p begin="00:00:10.000" end="00:00:19.500" region="topCenter">2. <span tts:fontWeight="bold" >justify (top, center)</span>,</p>
+<p begin="00:00:20.000" end="00:00:29.500" region="topRight">3. <span tts:fontWeight="bold" >justify (top, right)</span>,</p>
+<p begin="00:00:30.000" end="00:00:39.500" region="centerLeft">4. <span tts:fontWeight="bold" >justify (center, left)</span>,</p>
+<p begin="00:00:40.000" end="00:00:49.500" region="centerCenter">5. <span tts:fontWeight="bold" >justify (center, center)</span>,</p>
+<p begin="00:00:50.000" end="00:00:59.500" region="centerRight">6. <span tts:fontWeight="bold" >justify (center, right)</span>,</p>
+<p begin="00:01:00.000" end="00:01:09.500" region="bottomLeft">7. <span tts:fontWeight="bold" >justify (bottom, left)</span>,</p>
+<p begin="00:01:10.000" end="00:01:19.500" region="bottomCenter">8. <span tts:fontWeight="bold" >justify (bottom, center)</span>,</p>
+<p begin="00:01:20.000" end="00:01:29.500" region="bottomRight">9. <span tts:fontWeight="bold" >justify (bottom, right)</span>.</p>
+</div>
+</body>
+</tt>

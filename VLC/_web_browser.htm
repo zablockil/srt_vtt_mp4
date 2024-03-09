@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+</head>
+<body>
+
+<!--
+https://stackoverflow.com/a/8499679
+
+openssl base64 -in FILE.vtt | awk 'BEGIN{RS="\r|\n|\r\n|\n\r";ORS=""}{print}'
+-->
+
+<video controls autoplay src="without_subtitles.mp4">
+<track default kind="subtitles" label="label01" srclang="en" src="data:text/vtt;charset=utf-8;base64, V0VCVlRUCgowMDowMDowMS4wMDAgLS0+IDAwOjAwOjA5LjUwMCBhbGlnbjpzdGFydCBsaW5lOjEKMS4gPGI+anVzdGlmeSAodG9wLCBsZWZ0KTwvYj4sCgowMDowMDoxMC4wMDAgLS0+IDAwOjAwOjE5LjUwMCBhbGlnbjpjZW50ZXIgbGluZToxLjUKMi4gPGI+anVzdGlmeSAodG9wLCBjZW50ZXIpPC9iPiwKCjAwOjAwOjIwLjAwMCAtLT4gMDA6MDA6MjkuNTAwIGFsaWduOmVuZCBsaW5lOjIKMy4gPGI+anVzdGlmeSAodG9wLCByaWdodCk8L2I+LAoKMDA6MDA6MzAuMDAwIC0tPiAwMDowMDozOS41MDAgYWxpZ246c3RhcnQgbGluZTo0OCUKNC4gPGI+anVzdGlmeSAoY2VudGVyLCBsZWZ0KTwvYj4sCgowMDowMDo0MC4wMDAgLS0+IDAwOjAwOjQ5LjUwMCBhbGlnbjpjZW50ZXIgbGluZTo1MCUKNS4gPGI+anVzdGlmeSAoY2VudGVyLCBjZW50ZXIpPC9iPiwKCjAwOjAwOjUwLjAwMCAtLT4gMDA6MDA6NTkuNTAwIGFsaWduOmVuZCBsaW5lOjUyJQo2LiA8Yj5qdXN0aWZ5IChjZW50ZXIsIHJpZ2h0KTwvYj4sCgowMDowMTowMC4wMDAgLS0+IDAwOjAxOjA5LjUwMCBhbGlnbjpzdGFydCBsaW5lOi0xCjcuIDxiPmp1c3RpZnkgKGJvdHRvbSwgbGVmdCk8L2I+LAoKMDA6MDE6MTAuMDAwIC0tPiAwMDowMToxOS41MDAgYWxpZ246Y2VudGVyIGxpbmU6LTEuNQo4LiA8Yj5qdXN0aWZ5IChib3R0b20sIGNlbnRlcik8L2I+LAoKMDA6MDE6MjAuMDAwIC0tPiAwMDowMToyOS41MDAgYWxpZ246ZW5kIGxpbmU6LTIKOS4gPGI+anVzdGlmeSAoYm90dG9tLCByaWdodCk8L2I+Lgo=" />
+</video>
+
+</body>
+</html>
